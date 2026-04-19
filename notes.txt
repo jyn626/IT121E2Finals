@@ -1,0 +1,11 @@
+Enter a note: I'm tired
+Note Saved successfully! :)
+
+File Contents:
+I'm tired
+
+Enter another note: THIS IS NEWJEANS
+
+Note Updated!:
+I'm tired
+THIS IS NEWJEANS
